@@ -6,8 +6,6 @@ gem "hashie"
 
 gem "octokit"
 
-gem
-
 group :development do
   gem "pry"
 end
