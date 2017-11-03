@@ -12,4 +12,4 @@ group :test do
   gem 'rspec'
 end
 
-gem "pry",:group => 'devlopment'
+gem 'pry', :group => 'development'
